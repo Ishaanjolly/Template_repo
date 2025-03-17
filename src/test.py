@@ -8,8 +8,6 @@ def greet( name: str ):
 
 
 
-
-
     print( " Hello, "  +  name )  
 
 def main():
@@ -18,10 +16,7 @@ def main():
     
     
     
-    
-    
-    
-    
+
   greet("Alice")
   greet("Bob")
 

@@ -6,6 +6,7 @@ repos:
         language_version: python3
 
   - repo: https://github.com/dnanhkhoa/nb_black
+    rev: stable
     hooks:
       - id: nb_black
 

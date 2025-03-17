@@ -6,7 +6,7 @@ repos:
         language_version: python3
 
   - repo: https://github.com/drillan/jupyter-black
-    rev: v0.3.3
+    rev: v0.3.1
     hooks:
       - id: jupyter-black
 
